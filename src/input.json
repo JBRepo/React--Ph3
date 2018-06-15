@@ -1,0 +1,8 @@
+{
+    "elementTypes" : {
+                    "1":"Anomalia",
+                    "2":"Perdita Operativa",
+                    "3":"Reclamo",
+                    "21":"Segnalazione Compliance"
+    }
+}
